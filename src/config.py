@@ -1,3 +1,3 @@
 
-DWH_PATH = "database/supplier_dwh.duckdb"
-DATA_FOLDER = "database"
+DWH_PATH = "database/supply_chain.duckdb"
+DATA_FOLDER = "data"

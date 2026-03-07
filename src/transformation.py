@@ -5,7 +5,7 @@ conn = duckdb.connect(DWH_PATH)
 
 x = conn.sql("""
     SELECT *
-    FROM suppliers
+    FROM raw.suppliers
     ;
     """)
 print(x)
