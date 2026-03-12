@@ -1,6 +1,7 @@
 
 DWH_PATH = "database/supply_chain.duckdb"
 DATA_FOLDER = "data"
+RAW_SCHEMA = "raw"
 
 structure = """
 1. Imports (os, pathlib si nécessaire)
