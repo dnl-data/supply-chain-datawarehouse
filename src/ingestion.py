@@ -3,7 +3,7 @@ import os
 import boto3
 from config import KAGGLE_DATASET_PATH,S3_BUCKET_NAME,S3_FOLDER
 
-def download_kaggle_files_to_s3(kaggle_path, s3_bucket, s3_folder="data/bronze"):
+def download_kaggle_files_to_s3(kaggle_path, s3_bucket, s3_folder="data/test"):
     """
     Download dataset from Kaggle and upload files to AWS S3
     """
