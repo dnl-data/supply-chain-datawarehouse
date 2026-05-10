@@ -57,7 +57,7 @@ EXPECTED_SCHEMA = {
         "rating_count": "BIGINT",
         "is_discontinued": "BOOLEAN"
     },
-    "bronze.purchase_orders": {
+    "bronze_purchase_orders": {
         "po_id": "VARCHAR",
         "sku_id": "VARCHAR",
         "supplier_id": "BIGINT",
