@@ -1,0 +1,26 @@
+supplier_id,supplier_name,region,default_shipping_mode,status,lead_time_category,min_order_qty,contract_start_date
+200345,procter & gamble emea,de,sea,active,long,400,2014-04-08
+200160,philips domestic appliances,nl,sea,active,long,400,2011-04-08
+200485,ikea home furnishings,se,sea,active,long,400,2018-04-23
+200139,l'oreal beauty distribution,fr,air,active,long,400,2018-07-08
+200384,reckitt benckiser hygiene,uk,sea,active,long,400,2010-03-23
+200009,shiseido consumer products,jp,air,active,medium,200,2010-12-15
+200601,kimberly-clark hygiene,us,sea,active,long,400,2011-09-10
+200778,danone beverages sea,fr,sea,active,long,400,2019-06-19
+200828,h&m home textiles,se,sea,active,long,400,2010-11-08
+200914,xiaomi smart devices,cn,rail,active,medium,200,2014-02-28
+200782,puma sportswear distribution,de,air,active,long,400,2014-08-21
+200856,unilever global markets,uk,sea,active,long,400,2011-01-24
+200983,nestle consumer products,my,land,active,short,100,2012-12-04
+200099,samsung electronics,kr,sea,active,long,400,2018-02-19
+200271,lg electronics,kr,sea,active,long,400,2016-01-01
+200924,sony lifestyle products,jp,sea,active,medium,200,2018-10-01
+200889,johnson & johnson consumer,us,air,active,long,400,2017-10-09
+200991,nike retail partners,us,air,active,long,400,2016-06-09
+200769,adidas global sourcing,de,air,active,long,400,2012-04-25
+200232,colgate-palmolive personal care,us,sea,active,long,400,2015-02-03
+200439,pepsico snacks international,us,sea,active,long,400,2016-02-12
+200899,mondelez grocery apac,au,sea,active,long,400,2015-10-09
+200231,kao home & personal care,jp,sea,active,medium,200,2018-02-13
+200112,decathlon sports gear,fr,sea,active,long,400,2013-12-03
+200090,anker innovations electronics,cn,sea,active,medium,200,2013-02-13

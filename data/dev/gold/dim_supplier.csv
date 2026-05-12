@@ -1,0 +1,26 @@
+supplier_id,supplier_name,region,status,lead_time_category
+200345,procter & gamble emea,de,active,long
+200160,philips domestic appliances,nl,active,long
+200485,ikea home furnishings,se,active,long
+200139,l'oreal beauty distribution,fr,active,long
+200384,reckitt benckiser hygiene,uk,active,long
+200009,shiseido consumer products,jp,active,medium
+200601,kimberly-clark hygiene,us,active,long
+200778,danone beverages sea,fr,active,long
+200828,h&m home textiles,se,active,long
+200914,xiaomi smart devices,cn,active,medium
+200782,puma sportswear distribution,de,active,long
+200856,unilever global markets,uk,active,long
+200983,nestle consumer products,my,active,short
+200099,samsung electronics,kr,active,long
+200271,lg electronics,kr,active,long
+200924,sony lifestyle products,jp,active,medium
+200889,johnson & johnson consumer,us,active,long
+200991,nike retail partners,us,active,long
+200769,adidas global sourcing,de,active,long
+200232,colgate-palmolive personal care,us,active,long
+200439,pepsico snacks international,us,active,long
+200899,mondelez grocery apac,au,active,long
+200231,kao home & personal care,jp,active,medium
+200112,decathlon sports gear,fr,active,long
+200090,anker innovations electronics,cn,active,medium

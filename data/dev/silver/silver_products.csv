@@ -1,0 +1,81 @@
+sku_id,product_name,category,sub_category,brand,product_type,size_label,launch_date,shelf_life_months,parent_sku,default_price,primary_supplier_id,is_active,country_of_origin,online_only,avg_rating,rating_count,is_discontinued
+sku9310518635,garnier sunscreen 50ml,beauty,skincare & cosmetics,garnier,sunscreen,50ml,2019-04-22,18.0,sku5304202933,17.74,200139,true,uk,false,3.93,73,false
+sku4171552432,sony usb charger 33w,electronics accessories,gadgets,sony,usb charger,33w,2016-04-24,,sku1416947255,41.2,200991,true,us,false,4.48,56,false
+sku0908706868,h&m home bath towel standard,home & living,home essentials,h&m home,bath towel,standard,2019-04-05,,,22.19,200914,true,us,true,4.11,137,false
+sku4352719472,samsung wireless earbuds standard,electronics accessories,gadgets,samsung,wireless earbuds,standard,2016-11-06,,,43.11,200914,true,fr,false,3.61,36,false
+sku3856506982,anker wireless earbuds standard,electronics accessories,gadgets,anker,wireless earbuds,standard,2022-02-28,,,40.42,200924,true,fr,false,4.47,214,false
+sku2382683178,h&m home bath towel standard,home & living,home essentials,h&m home,bath towel,standard,2015-06-27,,,47.2,200914,true,cn,true,3.56,227,false
+sku0854478449,persil laundry detergent 1.5kg,home care,cleaning supplies,persil,laundry detergent,1.5kg,2015-12-16,,sku3543128798,7.9,200991,true,th,false,4.55,446,false
+sku3750227445,pantene shampoo 300ml,personal care,toiletries & bath,pantene,shampoo,300ml,2022-04-09,24.0,,5.89,200090,true,vn,false,4.19,408,false
+sku9268292227,nike running shoes standard,sports & lifestyle,sports gear,nike,running shoes,standard,2019-02-08,,,60.44,200439,true,vn,false,4.17,275,false
+sku6453037202,la roche-posay moisturizer 50ml,beauty,skincare & cosmetics,la roche-posay,moisturizer,50ml,2017-10-20,,sku6392899805,12.26,200232,true,de,false,4.64,281,true
+sku8112255921,milo chocolate snack 100g,food & beverage,groceries,milo,chocolate snack,100g,2021-06-25,,sku5712990157,3.87,200439,true,my,false,3.34,153,false
+sku8528433028,samsung wireless earbuds standard,electronics accessories,gadgets,samsung,wireless earbuds,standard,2022-05-05,,sku3644753717,87.92,200271,true,jp,false,3.54,271,false
+sku5230183443,pantene conditioner 500ml,personal care,toiletries & bath,pantene,conditioner,500ml,2016-08-27,36.0,,10.32,200991,true,uk,false,4.0,111,false
+sku8231364505,puma gym towel standard,sports & lifestyle,sports gear,puma,gym towel,standard,2017-12-11,,,105.32,200889,true,vn,false,3.44,321,false
+sku9965766197,l'oreal sunscreen 50ml,beauty,skincare & cosmetics,l'oreal,sunscreen,50ml,2019-03-21,18.0,,8.74,200090,true,id,false,4.51,98,false
+sku7344804846,kellogg's instant coffee 100g,food & beverage,groceries,kellogg's,instant coffee,100g,2017-11-04,18.0,,5.8,200271,true,us,true,3.51,400,false
+sku9363753849,shiseido lip balm standard,beauty,skincare & cosmetics,shiseido,lip balm,standard,2017-03-26,12.0,,15.62,200099,true,kr,true,3.61,261,false
+sku3644753717,milo bottled water 500ml,food & beverage,groceries,milo,bottled water,500ml,2014-11-07,24.0,,7.37,200991,true,jp,false,4.22,223,false
+sku0576803263,kellogg's instant coffee 200g,food & beverage,groceries,kellogg's,instant coffee,200g,2022-07-22,36.0,,3.16,200139,true,jp,false,4.21,15,false
+sku0546697323,cadbury bottled water 500ml,food & beverage,groceries,cadbury,bottled water,500ml,2020-10-07,18.0,,3.2,200769,true,my,false,4.77,44,false
+sku0829864965,nescafe bottled water 1.5l,food & beverage,groceries,nescafe,bottled water,1.5l,2022-05-22,24.0,,7.99,200601,true,jp,false,4.5,107,false
+sku2121149634,philips power bank 10000mah,electronics accessories,gadgets,philips,power bank,10000mah,2017-07-22,,,69.18,200112,true,kr,false,4.81,313,false
+sku1210580490,ikea bedsheet set king,home & living,home essentials,ikea,bedsheet set,king,2017-02-15,,,41.87,200889,true,id,false,4.75,690,false
+sku6702938185,shiseido lip balm standard,beauty,skincare & cosmetics,shiseido,lip balm,standard,2021-10-27,36.0,,29.77,200914,true,kr,false,4.86,260,false
+sku6218840657,milo chocolate snack 100g,food & beverage,groceries,milo,chocolate snack,100g,2021-02-23,18.0,,7.01,200601,true,vn,false,4.59,21,false
+sku6029491140,kellogg's bottled water 500ml,food & beverage,groceries,kellogg's,bottled water,500ml,2016-03-08,24.0,,3.22,200345,true,uk,true,3.24,216,false
+sku1416947255,comfort dishwashing liquid 750ml,home care,cleaning supplies,comfort,dishwashing liquid,750ml,2020-06-18,,,7.08,200778,true,au,false,3.25,105,false
+sku6392899805,sony wireless earbuds standard,electronics accessories,gadgets,sony,wireless earbuds,standard,2020-10-23,,,36.76,200231,true,my,false,4.04,61,false
+sku0108578252,la roche-posay lip balm standard,beauty,skincare & cosmetics,la roche-posay,lip balm,standard,2019-05-25,24.0,,18.59,200769,true,kr,false,4.34,36,false
+sku8857641203,h&m home storage box small,home & living,home essentials,h&m home,storage box,small,2018-07-16,,,12.07,200139,true,my,false,3.58,44,false
+sku5798668944,lifebuoy toothpaste 100g,personal care,toiletries & bath,lifebuoy,toothpaste,100g,2015-11-14,12.0,,11.59,200899,true,au,false,4.33,177,false
+sku1221944611,vim laundry detergent 2.5kg,home care,cleaning supplies,vim,laundry detergent,2.5kg,2019-04-15,,,5.9,200232,true,jp,false,3.84,75,false
+sku8599193589,kellogg's chocolate snack 100g,food & beverage,groceries,kellogg's,chocolate snack,100g,2018-02-16,,,5.71,200099,true,uk,false,4.64,496,false
+sku3520922309,muji led desk lamp standard,home & living,home essentials,muji,led desk lamp,standard,2015-11-02,,sku4250546449,47.08,200769,true,my,true,4.79,91,false
+sku9907227021,comfort dishwashing liquid 500ml,home care,cleaning supplies,comfort,dishwashing liquid,500ml,2017-03-16,,,8.25,200271,true,fr,true,4.16,64,false
+sku8356321282,adidas running shoes standard,sports & lifestyle,sports gear,adidas,running shoes,standard,2015-10-01,,,54.74,200139,true,cn,false,3.64,204,false
+sku3681436675,l'oreal moisturizer 50ml,beauty,skincare & cosmetics,l'oreal,moisturizer,50ml,2015-10-26,,,22.89,200231,true,jp,true,4.16,637,false
+sku5569667576,muji bedsheet set single,home & living,home essentials,muji,bedsheet set,single,2022-11-11,,,13.72,200384,true,my,false,4.54,405,false
+sku0221710278,la roche-posay lip balm standard,beauty,skincare & cosmetics,la roche-posay,lip balm,standard,2020-06-21,24.0,,13.18,200924,true,uk,false,4.18,172,false
+sku5304202933,persil air freshener 300ml,home care,cleaning supplies,persil,air freshener,300ml,2022-08-15,,,9.85,200856,true,kr,false,4.6,33,false
+sku6955836996,adidas running shoes standard,sports & lifestyle,sports gear,adidas,running shoes,standard,2016-08-13,,,44.64,200856,true,cn,false,3.26,485,false
+sku6171745695,puma gym towel standard,sports & lifestyle,sports gear,puma,gym towel,standard,2017-01-26,,,63.71,200983,true,jp,false,3.44,329,false
+sku9112068923,samsung power bank 10000mah,electronics accessories,gadgets,samsung,power bank,10000mah,2019-04-21,,,49.1,200439,true,au,false,4.33,183,false
+sku2767416311,xiaomi wireless earbuds standard,electronics accessories,gadgets,xiaomi,wireless earbuds,standard,2021-09-09,,,77.62,200601,true,us,false,3.36,569,false
+sku1691039685,l'oreal facial cleanser 100ml,beauty,skincare & cosmetics,l'oreal,facial cleanser,100ml,2019-02-10,24.0,,18.85,200439,true,id,false,4.43,459,false
+sku7213167310,milo breakfast cereal 500g,food & beverage,groceries,milo,breakfast cereal,500g,2016-09-25,36.0,sku6697464014,4.4,200914,true,my,true,4.3,43,false
+sku7140396225,garnier moisturizer 50ml,beauty,skincare & cosmetics,garnier,moisturizer,50ml,2022-03-09,36.0,,30.38,200983,true,de,true,3.43,703,false
+sku4471900304,philips bluetooth speaker standard,electronics accessories,gadgets,philips,bluetooth speaker,standard,2018-07-22,,,61.79,200914,true,fr,true,3.4,88,false
+sku5748392854,oreo chocolate snack 100g,food & beverage,groceries,oreo,chocolate snack,100g,2015-04-08,,,7.67,200782,true,jp,false,4.12,235,false
+sku5468002294,lifebuoy deodorant 50ml,personal care,toiletries & bath,lifebuoy,deodorant,50ml,2017-01-03,,,5.71,200160,true,vn,true,3.36,234,false
+sku2614716610,h&m home storage box small,home & living,home essentials,h&m home,storage box,small,2021-07-07,,sku9112068923,29.3,200439,true,th,false,3.34,24,false
+sku9602280382,pantene toothpaste 150g,personal care,toiletries & bath,pantene,toothpaste,150g,2020-08-28,,,7.98,200991,true,fr,false,3.87,449,false
+sku0409524346,persil air freshener 300ml,home care,cleaning supplies,persil,air freshener,300ml,2016-05-15,,,7.78,200384,true,vn,false,3.97,202,false
+sku5966165534,la roche-posay facial cleanser 100ml,beauty,skincare & cosmetics,la roche-posay,facial cleanser,100ml,2014-11-18,,sku0829864965,16.32,200231,true,th,false,3.25,70,false
+sku4250546449,garnier moisturizer 50ml,beauty,skincare & cosmetics,garnier,moisturizer,50ml,2021-08-07,24.0,,20.06,200099,true,my,false,3.87,358,false
+sku5257232418,comfort air freshener 300ml,home care,cleaning supplies,comfort,air freshener,300ml,2018-08-10,,,5.23,200485,true,kr,false,3.67,51,false
+sku2377703159,adidas yoga mat 4mm,sports & lifestyle,sports gear,adidas,yoga mat,4mm,2018-04-02,,,104.07,200769,true,de,false,4.23,207,false
+sku8185788985,puma running shoes standard,sports & lifestyle,sports gear,puma,running shoes,standard,2014-10-16,,,106.01,200983,true,us,false,3.33,32,false
+sku3543128798,l'oreal moisturizer 50ml,beauty,skincare & cosmetics,l'oreal,moisturizer,50ml,2016-02-20,,,25.56,200991,true,fr,false,3.81,454,false
+sku6941397148,colgate toothpaste 150g,personal care,toiletries & bath,colgate,toothpaste,150g,2018-04-22,18.0,,9.09,200112,true,vn,false,4.15,181,false
+sku6729730365,oreo instant coffee 200g,food & beverage,groceries,oreo,instant coffee,200g,2015-03-09,,,4.18,200828,true,th,false,4.74,81,false
+sku7046448675,decathlon water bottle 1l,sports & lifestyle,sports gear,decathlon,water bottle,1l,2014-02-21,,,116.67,200090,true,kr,false,4.29,241,false
+sku2528477072,decathlon yoga mat 4mm,sports & lifestyle,sports gear,decathlon,yoga mat,4mm,2015-02-23,,,126.34,200769,true,id,true,3.77,106,false
+sku0689086449,muji led desk lamp standard,home & living,home essentials,muji,led desk lamp,standard,2020-03-02,,,18.8,200601,true,cn,false,4.08,747,false
+sku6697464014,colgate conditioner 500ml,personal care,toiletries & bath,colgate,conditioner,500ml,2020-11-28,12.0,,7.39,200485,true,cn,false,3.85,183,false
+sku1707364631,dettol laundry detergent 1.5kg,home care,cleaning supplies,dettol,laundry detergent,1.5kg,2021-04-07,,,5.31,200090,true,au,false,3.92,33,false
+sku7805936521,pantene shampoo 300ml,personal care,toiletries & bath,pantene,shampoo,300ml,2018-01-04,36.0,,5.04,200899,true,kr,true,3.73,334,false
+sku3182306683,nike yoga mat 4mm,sports & lifestyle,sports gear,nike,yoga mat,4mm,2019-07-03,,,57.6,200271,true,fr,true,3.33,243,false
+sku7747584994,puma gym towel standard,sports & lifestyle,sports gear,puma,gym towel,standard,2022-01-10,,,36.94,200899,true,cn,false,4.7,530,false
+sku9291875748,harpic air freshener 300ml,home care,cleaning supplies,harpic,air freshener,300ml,2021-08-15,,,9.73,200782,true,fr,false,4.58,217,false
+sku3008428936,persil air freshener 300ml,home care,cleaning supplies,persil,air freshener,300ml,2018-09-22,,,7.97,200384,true,fr,false,4.67,269,false
+sku8394486225,ikea bath towel standard,home & living,home essentials,ikea,bath towel,standard,2018-04-26,,,39.74,200009,true,vn,true,4.59,361,false
+sku9988997641,comfort laundry detergent 1.5kg,home care,cleaning supplies,comfort,laundry detergent,1.5kg,2021-10-28,,,4.62,200271,true,th,false,4.37,19,false
+sku3227361861,philips usb charger 20w,electronics accessories,gadgets,philips,usb charger,20w,2020-08-13,,,56.76,200160,true,vn,false,4.36,123,false
+sku3306844945,comfort laundry detergent 2.5kg,home care,cleaning supplies,comfort,laundry detergent,2.5kg,2017-03-26,,,9.14,200485,true,uk,false,4.49,121,false
+sku0158772236,garnier lip balm standard,beauty,skincare & cosmetics,garnier,lip balm,standard,2021-05-25,12.0,,36.24,200899,true,fr,true,4.6,93,false
+sku0376395903,xiaomi power bank 10000mah,electronics accessories,gadgets,xiaomi,power bank,10000mah,2021-03-20,,,72.64,200782,true,us,true,3.52,267,false
+sku5712990157,lux deodorant 150ml,personal care,toiletries & bath,lux,deodorant,150ml,2018-06-06,36.0,,11.3,200983,true,de,false,3.6,308,false
+sku4811414032,h&m home bedsheet set king,home & living,home essentials,h&m home,bedsheet set,king,2017-02-19,,,33.83,200991,true,uk,false,3.82,89,false
+sku0207806619,neutrogena sunscreen 50ml,beauty,skincare & cosmetics,neutrogena,sunscreen,50ml,2015-05-15,12.0,,24.2,200439,true,au,false,3.38,209,false
