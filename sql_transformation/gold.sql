@@ -214,26 +214,8 @@ SELECT
 FROM gold_procurement.fact_purchase
 GROUP BY supplier_id, supplier_name, region;
 
--- =====================================================
--- EXPORTS : Local CSV (for GitHub preview)
--- =====================================================
-COPY gold_stock.dim_date TO 'data/dev/gold/dim_date.csv' (HEADER, DELIMITER ',');
-COPY gold_stock.dim_product TO 'data/dev/gold/dim_product.csv' (HEADER, DELIMITER ',');
-COPY gold_stock.fact_inventory TO 'data/dev/gold/fact_inventory.csv' (HEADER, DELIMITER ',');
-COPY gold_stock.alert_reorder TO 'data/dev/gold/alert_reorder.csv' (HEADER, DELIMITER ',');
 
-COPY gold_sales.dim_channel TO 'data/dev/gold/dim_channel.csv' (HEADER, DELIMITER ',');
-COPY gold_sales.dim_promo TO 'data/dev/gold/dim_promo.csv' (HEADER, DELIMITER ',');
-COPY gold_sales.fact_sales TO 'data/dev/gold/fact_sales.csv' (HEADER, DELIMITER ',');
-COPY gold_sales.sales_by_channel TO 'data/dev/gold/sales_by_channel.csv' (HEADER, DELIMITER ',');
-
-COPY gold_procurement.dim_supplier TO 'data/dev/gold/dim_supplier.csv' (HEADER, DELIMITER ',');
-COPY gold_procurement.fact_purchase TO 'data/dev/gold/fact_purchase.csv' (HEADER, DELIMITER ',');
-COPY gold_procurement.supplier_performance TO 'data/dev/gold/supplier_performance.csv' (HEADER, DELIMITER ',');
-
--- =====================================================
 -- EXPORTS : S3 CSV (for cloud storage)
--- =====================================================
 COPY gold_stock.dim_date TO 's3://supply-chain-dwh/test/gold/dim_date.csv' (HEADER, DELIMITER ',');
 COPY gold_stock.dim_product TO 's3://supply-chain-dwh/test/gold/dim_product.csv' (HEADER, DELIMITER ',');
 COPY gold_stock.fact_inventory TO 's3://supply-chain-dwh/test/gold/fact_inventory.csv' (HEADER, DELIMITER ',');

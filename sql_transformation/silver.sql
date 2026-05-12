@@ -139,16 +139,6 @@ SELECT DISTINCT
 FROM read_csv_auto('s3://supply-chain-dwh/test/bronze/bronze_suppliers.csv')
 WHERE supplier_id IS NOT NULL;
 
-
--- EXPORT: Local CSV (for GitHub preview)
-COPY silver.daily_inventory TO 'data/dev/silver/silver_daily_inventory.csv' (HEADER, DELIMITER ',');
-COPY silver.inventory_snapshot TO 'data/dev/silver/silver_inventory_snapshot.csv' (HEADER, DELIMITER ',');
-COPY silver.products TO 'data/dev/silver/silver_products.csv' (HEADER, DELIMITER ',');
-COPY silver.purchase_orders TO 'data/dev/silver/silver_purchase_orders.csv' (HEADER, DELIMITER ',');
-COPY silver.sales TO 'data/dev/silver/silver_sales.csv' (HEADER, DELIMITER ',');
-COPY silver.suppliers TO 'data/dev/silver/silver_suppliers.csv' (HEADER, DELIMITER ',');
-
-
 -- EXPORT: S3 CSV (for cloud storage)
 COPY silver.daily_inventory TO 's3://supply-chain-dwh/test/silver/silver_daily_inventory.csv' (HEADER, DELIMITER ',');
 COPY silver.inventory_snapshot TO 's3://supply-chain-dwh/test/silver/silver_inventory_snapshot.csv' (HEADER, DELIMITER ',');

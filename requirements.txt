@@ -1,0 +1,5 @@
+kagglehub
+boto3
+duckdb
+pandas
+python-dotenv

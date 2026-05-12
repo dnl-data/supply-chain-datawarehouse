@@ -2,8 +2,8 @@
 KAGGLE_DATASET_PATH = "rajhkumarr/e-commerce-and-retail-supply-chain"
 
 # 2. AWS S3 configuration
-S3_BUCKET_NAME = "supply-chain-dwh"
-S3_FOLDER = "test"
+S3_BUCKET_NAME = ""
+S3_FOLDER = ""
 
 # 3. Schema and Tables
 EXPECTED_SCHEMA = {
