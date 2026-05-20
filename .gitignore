@@ -1,0 +1,22 @@
+# Environment variables (secrets)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# DuckDB database
+*.duckdb
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (optionnel, si trop volumineux)
+# data/
