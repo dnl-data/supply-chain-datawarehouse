@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 # Configure AWS credentials
 ```bash
-cp .env
+cp .env.example
 ```
 
 # Execute full ELT pipeline
