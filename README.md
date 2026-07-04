@@ -41,14 +41,29 @@ An end-to-end ELT pipeline that extracts e-commerce and retail supply chain data
 # Clone repository
 git clone https://github.com/dnl-data/supply-chain-datawarehouse.git
 cd supply-chain-datawarehouse
-
+```
 # Create virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 # Configure AWS credentials
-cp .env.example .env
-# Edit .env with your AWS and Kaggle credentials
+```bash
+cp .env
+```
+
+# Execute full ELT pipeline
+```bash
+python pipeline/run_pipeline.py
+```
+
+# Run Docker
+```bash
+docker build -t supply-chain-dwh .
+docker run --env-file .env supply-chain-dwh
+```
